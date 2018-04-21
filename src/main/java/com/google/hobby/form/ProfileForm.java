@@ -1,7 +1,5 @@
 package com.google.hobby.form;
 
-package com.google.devrel.training.conference.form;
-
 import com.google.devrel.training.conference.form.ProfileForm.TeeShirtSize;
 
 /**

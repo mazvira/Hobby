@@ -1,7 +1,7 @@
 package com.google.devrel.hobby.service;
 
-import com.google.devrel.hobby.domain.Conference;
-import com.google.devrel.hobby.domain.Profile;
+import com.google.hobby.domain.Section;
+import com.google.hobby.domain.Profile;
 import com.googlecode.objectify.Objectify;
 import com.googlecode.objectify.ObjectifyFactory;
 import com.googlecode.objectify.ObjectifyService;
